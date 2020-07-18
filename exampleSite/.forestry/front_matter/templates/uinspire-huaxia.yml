@@ -17,3 +17,5 @@ fields:
 - type: text
   name: image
   label: image
+pages:
+- exampleSite/content/books/test.md

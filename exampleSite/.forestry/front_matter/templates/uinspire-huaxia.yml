@@ -1,0 +1,19 @@
+---
+label: Uinspire Huaxia
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: number
+  name: subtitle
+  label: subtitle
+- type: text
+  name: link
+  label: link
+- type: text
+  name: image
+  label: image

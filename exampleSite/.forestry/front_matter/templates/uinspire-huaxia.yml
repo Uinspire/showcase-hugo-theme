@@ -19,3 +19,4 @@ fields:
   label: image
 pages:
 - exampleSite/content/books/test.md
+- exampleSite/content/new.md
